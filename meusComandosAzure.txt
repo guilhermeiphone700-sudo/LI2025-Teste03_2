@@ -1,0 +1,155 @@
+    1  pws
+    2  pwd
+    3  touch labksa.txt
+    4  ls
+    5  echo "Guilherme Silva_120824_02/10/2025" > labksa.txt
+    6  cat labksa.txt
+    7  exit
+    8  sudo apt update -y
+    9  sudo apt install apache2 -y
+   10  sudo systemctl status apache2
+   11  sudo systemctl start apache2
+   12  sudo systemctl enable apache2
+   13  git clone https://github.com/guilhermeiphone700-sudo/oMeuProjetoHtml.git
+   14  ls
+   15  cd oMeuProjetoHtml/
+   16  ls
+   17  cat index.html
+   18  ls -all
+   19  cd ..
+   20  ls -all
+   21  cd /var/www/html
+   22  ls 
+   23  sudo vi index.html
+   24  cd ..
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd ~/oMeuProjetoHtml
+   29  ls
+   30  cd ..
+   31  cd /var/www/html
+   32  git clone https://github.com/guilhermeiphone700-sudo/oMeuProjetoHtml.git
+   33  sudo git clone https://github.com/guilhermeiphone700-sudo/oMeuProjetoHtml.git
+   34  ls
+   35  cd /var/www/html
+   36  ls
+   37  sudo rm -rf oMeuProjetoHtml
+   38  ls
+   39  git clone https://github.com/guilhermeiphone700-sudo/oMeuProjetoHtml.git
+   40  sudo git clone https://github.com/guilhermeiphone700-sudo/oMeuProjetoHtml.git
+   41  ls
+   42  sudo rm -rf oMeuProjetoHtml
+   43  sudo git clone https://github.com/guilhermeiphone700-sudo/oMeuProjetoHtml.git
+   44  ls
+   45  pwd
+   46  ls
+   47  cd /var/www/html
+   48  ls
+   49  sudo rm -rf oMeuProjetoHtml
+   50  sudo git clone https://github.com/guilhermeiphone700-sudo/LI2025-Teste03.git
+   51  ls
+   52  cd LI2025-Teste03
+   53  ls
+   54  mkdir A120824
+   55  sudo mkdir A120824
+   56  ls
+   57  cd A120824
+   58  touch README.md
+   59  sudo touch README.md
+   60  ls
+   61  echo "Teste de LI 2025/2026" > README.md
+   62  sudo echo "Teste de LI 2025/2026" > README.md
+   63  ls
+   64  sudo echo "Teste de LI 2025/2026" > README
+   65  sudo chown $USER README.md
+   66  echo "Teste de LI 2025/2026" > README.md
+   67  ls
+   68  cat README.md
+   69  cd ..
+   70  ls
+   71  git add .
+   72  git config --global --add safe.directory /var/www/html/LI2025-Teste03
+   73  git add .
+   74  sudo git add .
+   75  sudo git commit -m "2ª tarefa concluída"
+   76  sudo git push origin main
+   77  cd /var/www/html
+   78  ls
+   79  cd ..
+   80  cd ~
+   81  ls
+   82  bash
+   83  git pull
+   84  cd /var/www/html
+   85  git pull
+   86  ls
+   87  cd LI2025-Teste03
+   88  git pull
+   89  sudo git pull
+   90  cp index.html disciplinas.html
+   91  sudo cp index.html disciplinas.html
+   92  sudo git add disciplinas.html
+   93  sudo git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+   94  git push origin main
+   95  git pull origin main
+   96  sudo git pull origin main
+   97  history > meusComandosAzure.txt
+   98  sudo history > meusComandosAzure.txt
+   99  sudo chown $USER .
+  100  history > meusComandosAzure.txt
+  101  cat meusComandosAzure.txt
+  102  ls
+  103  git add .
+  104  sudo git add .
+  105  Sudo git commit -m "Meus Comandos Azure"
+  106  sudo git commit -m "Meus Comandos Azure"
+  107  sudo git push origin main
+  108  pwd
+  109  cd /var/www/html
+  110  ls
+  111  sudo rm -rf LI2025-Teste03
+  112  ls
+  113  pwd
+  114  git clone https://github.com/guilhermeiphone700-sudo/LI2025-Teste03_2.git
+  115  sudo git clone https://github.com/guilhermeiphone700-sudo/LI2025-Teste03_2.git
+  116  ls
+  117  cd LI2025-Teste03_2
+  118  mkdir A120824
+  119  sudo mkdir A120824
+  120  ls
+  121  cd A120824
+  122  touch README.md
+  123  sudo touch README.md
+  124  ls
+  125  echo "Teste de LI 2025/2026" > README.md
+  126  sudo echo "Teste de LI 2025/2026" > README.md
+  127  sudo chown $USER README.md
+  128  sudo echo "Teste de LI 2025/2026" > README.md
+  129  ls
+  130  cat README.md
+  131  cd ..
+  132  git add .
+  133  git config --global --add safe.directory /var/www/html/LI2025-Teste03_2
+  134  git add.
+  135  git add .
+  136  sudo git add .
+  137  sudo git commit -m "2ª tarefa concluída"
+  138  sudo git push origin main
+  139  cd /var/www/html
+  140  cd LI2025-Teste03_2
+  141  sudo git pull
+  142  sudo cp index.html disciplinas.html
+  143  sudo git add disciplinas.html
+  144  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  145  sudo git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  146  git push origin main
+  147  git pull origin main
+  148  sudo git pull origin main
+  149  history > meusComandosAzure.txt
+  150  sudo history > meusComandosAzure.txt
+  151  sudo chown $USER
+  152  sudo history > meusComandosAzure.txt
+  153  sudo chown $USER
+  154  sudo chown -R $USER .
+  155  history > meusComandosAzure.txt

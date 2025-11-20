@@ -1,0 +1,16 @@
+ 1011  sudo git add.
+ 1012  sudo git add.
+ 1013  git add.
+ 1014  git add .
+ 1015  git commit -m "3ª tarefa concluída"
+ 1016  git push origin main
+ 1017  git add .
+ 1018  git commit -m "4ª tarefa"
+ 1019  git push origin main
+ 1020  git pull
+ 1021  git add.
+ 1022  git add .
+ 1023  sudo git commit -m "5ª tarefa cumprida"
+ 1024  git commit -m "5ª tarefa cumprida"
+ 1025  git push origin main
+ 1026  git pull origin main
